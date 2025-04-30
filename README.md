@@ -1,1 +1,5 @@
 # IntroReact
+
+## Autor
+
+Pablo Méndez
